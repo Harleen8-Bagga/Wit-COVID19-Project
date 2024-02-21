@@ -1,13 +1,15 @@
 # Long description
-In this scenario of covid19 panademic there are a lots of people out there,who are either elderly or immuno compromised and they are not willing to risk their health and go outside for necessities like food and other supplies.The goal of this project is to help such people stay safe at home and reduce their risk to infection while ensuring they can still get access to baisc neccesities like food and medicines.
-<br/>   The application we have build helps connect those who want to volunteer to those who need help.These volunteers can help purchase groceries,medicines or other supply for someone in need.
-  </br> A user can register as a deliverer or a reciever and see a list of coressponding people who they can help or be helped by.It will connect users to other within their community.
-   </br>Our application works on the following workflow:-
- <br/>1)Select whether you need help or is willing to offer it.
- <br/>2)Search for your location.
- <br/>3)Browse the results for posts from nearby neighbours who can help you or require your help.
- <br/>4)If you find a suitable result simply reply on the post to get in touch with the author through the e-mail.
- <br/>5)If there is no suitable result you can create a post to request or offer help for your community to see.
+In this scenario of covid19 pandemic, there are a lot of people out there, who are either elderly or immunocompromised and they are not willing to risk their health and go outside for necessities like food and other supplies. The goal of this project is to help such people stay safe at home and reduce their risk of infection while ensuring they can still get access to necessities like food and medicines.
+
+
+<br/> - The application we have built helps connect those who want to volunteer to those who need help. These volunteers can help purchase groceries, medicines, or other supplies for someone in need.
+  </br> - A user can register as a deliverer or a receiver and see a list of corresponding people whom they can help or be helped by. It will connect users to others within their community.
+   </br> - Our application works on the following workflow:-
+ <br/>1) Select whether you need help or are willing to offer it.
+ <br/>2) Search for your location.
+ <br/>3) Browse the results for posts from nearby neighbors who can help you or require your help.
+ <br/>4) If you find a suitable result simply reply to the post to get in touch with the author through e-mail.
+ <br/>5) If there is no suitable result you can create a post to request or offer help for your community to see.
 # Solution Roadmap
   
   ![](imgs/image1.png)
